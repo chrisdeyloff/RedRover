@@ -1,4 +1,5 @@
 # RedRover Code Puzzle - Chris Deyloff
+* Clone repo - **https://github.com/chrisdeyloff/RedRover**
 * Visual Studio
 	* Open solution file
 	* Run
